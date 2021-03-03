@@ -1,0 +1,10 @@
+starts and ends with the same symbol
+s;q1;q2;r1;r2
+a;b
+s
+q1;r1
+q1;r1
+q1;q2
+q1;q2
+r2;r1
+r2;r1

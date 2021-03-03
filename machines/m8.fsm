@@ -1,0 +1,13 @@
+contains a 1 in the third position from the end
+q000;q001;q010;q011;q100;q101;q110;q111
+0;1
+q000
+q100;q101;q111;q110
+q000;q001
+q010;q011
+q100;q101
+q110;q111
+q000;q001
+q010;q011
+q100;q101
+q110;q111
